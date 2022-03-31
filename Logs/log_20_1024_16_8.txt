@@ -1,0 +1,27 @@
+
+#-----------------------------------------------------#
+Validacao Cruzada - 1 de 5
+20 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.37      0.63      0.47       129
+           1       0.76      0.53      0.62       288
+
+    accuracy                           0.56       417
+   macro avg       0.57      0.58      0.55       417
+weighted avg       0.64      0.56      0.58       417
+
+Matriz de confussao:
+[[ 81  48]
+ [136 152]]
+
+
+Acuracia: 0.5587529976019184
+
+F1_Score: 0.6229508196721312
+
+Precision: 0.76
+
+Recall: 0.5277777777777778
+
+#-----------------------------------------------------#

@@ -1,0 +1,160 @@
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.51      0.84      0.63       129
+           1       0.90      0.64      0.74       288
+
+    accuracy                           0.70       417
+   macro avg       0.70      0.74      0.69       417
+weighted avg       0.78      0.70      0.71       417
+[[108  21]
+ [105 183]]
+Acuracia: 0.736312984496124
+Pre treino = Descongelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.65      0.81      0.72       129
+           1       0.91      0.80      0.85       287
+
+    accuracy                           0.81       416
+   macro avg       0.78      0.81      0.79       416
+weighted avg       0.83      0.81      0.81       416
+[[105  24]
+ [ 56 231]]
+Acuracia: 0.8094157685762904
+Pre treino = Descongelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.67      0.59      0.63       129
+           1       0.82      0.87      0.85       287
+
+    accuracy                           0.78       416
+   macro avg       0.75      0.73      0.74       416
+weighted avg       0.78      0.78      0.78       416
+[[ 76  53]
+ [ 38 249]]
+Acuracia: 0.7283715528185182
+Pre treino = Descongelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.76      0.47      0.58       129
+           1       0.80      0.93      0.86       287
+
+    accuracy                           0.79       416
+   macro avg       0.78      0.70      0.72       416
+weighted avg       0.79      0.79      0.77       416
+[[ 61  68]
+ [ 19 268]]
+Acuracia: 0.7033330632309646
+Pre treino = Descongelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.71      0.56      0.63       128
+           1       0.82      0.90      0.86       288
+
+    accuracy                           0.79       416
+   macro avg       0.76      0.73      0.74       416
+weighted avg       0.79      0.79      0.79       416
+[[ 72  56]
+ [ 30 258]]
+Acuracia: 0.7291666666666667
+Pre treino = Descongelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.52      0.54      0.53       129
+           1       0.79      0.77      0.78       288
+
+    accuracy                           0.70       417
+   macro avg       0.65      0.66      0.66       417
+weighted avg       0.71      0.70      0.70       417
+[[ 70  59]
+ [ 65 223]]
+Acuracia: 0.6584706072351421
+Pre treino = Descongelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.65      0.77      0.70       129
+           1       0.89      0.82      0.85       287
+
+    accuracy                           0.80       416
+   macro avg       0.77      0.79      0.78       416
+weighted avg       0.81      0.80      0.80       416
+[[ 99  30]
+ [ 53 234]]
+Acuracia: 0.791386435459039
+Pre treino = Descongelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.81      0.34      0.48       129
+           1       0.77      0.97      0.85       287
+
+    accuracy                           0.77       416
+   macro avg       0.79      0.65      0.67       416
+weighted avg       0.78      0.77      0.74       416
+[[ 44  85]
+ [ 10 277]]
+Acuracia: 0.6531210328714583
+Pre treino = Descongelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.50      0.70      0.58       129
+           1       0.83      0.68      0.75       287
+
+    accuracy                           0.69       416
+   macro avg       0.67      0.69      0.67       416
+weighted avg       0.73      0.69      0.70       416
+[[ 90  39]
+ [ 91 196]]
+Acuracia: 0.690300623936472
+Pre treino = Descongelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.42      0.90      0.57       128
+           1       0.91      0.45      0.61       288
+
+    accuracy                           0.59       416
+   macro avg       0.67      0.68      0.59       416
+weighted avg       0.76      0.59      0.60       416
+[[115  13]
+ [157 131]]
+Acuracia: 0.6766493055555556
+Pre treino = Descongelado
+
+

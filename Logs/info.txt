@@ -1,0 +1,1 @@
+log_{Epocas}_{Neuronios}_{Instancias por bag}

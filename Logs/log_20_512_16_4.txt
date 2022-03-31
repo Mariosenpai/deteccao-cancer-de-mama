@@ -1,0 +1,135 @@
+
+#-----------------------------------------------------#
+Validacao Cruzada - 1 de 5
+20 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.61      0.81      0.70       129
+           1       0.90      0.77      0.83       288
+
+    accuracy                           0.78       417
+   macro avg       0.76      0.79      0.77       417
+weighted avg       0.81      0.78      0.79       417
+
+Matriz de confussao:
+[[105  24]
+ [ 66 222]]
+
+
+Acuracia: 0.7841726618705036
+
+F1_Score: 0.8314606741573034
+
+Precision: 0.9024390243902439
+
+Recall: 0.7708333333333334
+
+#-----------------------------------------------------#
+
+#-----------------------------------------------------#
+Validacao Cruzada - 2 de 5
+20 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.66      0.58      0.62       129
+           1       0.82      0.87      0.84       287
+
+    accuracy                           0.78       416
+   macro avg       0.74      0.72      0.73       416
+weighted avg       0.77      0.78      0.77       416
+
+Matriz de confussao:
+[[ 75  54]
+ [ 38 249]]
+
+
+Acuracia: 0.7788461538461539
+
+F1_Score: 0.8440677966101694
+
+Precision: 0.8217821782178217
+
+Recall: 0.867595818815331
+
+#-----------------------------------------------------#
+
+#-----------------------------------------------------#
+Validacao Cruzada - 3 de 5
+20 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.66      0.55      0.60       129
+           1       0.81      0.87      0.84       287
+
+    accuracy                           0.77       416
+   macro avg       0.73      0.71      0.72       416
+weighted avg       0.76      0.77      0.77       416
+
+Matriz de confussao:
+[[ 71  58]
+ [ 37 250]]
+
+
+Acuracia: 0.7716346153846154
+
+F1_Score: 0.8403361344537814
+
+Precision: 0.8116883116883117
+
+Recall: 0.8710801393728222
+
+#-----------------------------------------------------#
+
+#-----------------------------------------------------#
+Validacao Cruzada - 4 de 5
+20 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.41      0.73      0.53       129
+           1       0.81      0.54      0.65       287
+
+    accuracy                           0.60       416
+   macro avg       0.61      0.63      0.59       416
+weighted avg       0.69      0.60      0.61       416
+
+Matriz de confussao:
+[[ 94  35]
+ [133 154]]
+
+
+Acuracia: 0.5961538461538461
+
+F1_Score: 0.6470588235294118
+
+Precision: 0.8148148148148148
+
+Recall: 0.5365853658536586
+
+#-----------------------------------------------------#
+
+#-----------------------------------------------------#
+Validacao Cruzada - 5 de 5
+20 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.43      0.99      0.60       128
+           1       0.99      0.42      0.59       288
+
+    accuracy                           0.59       416
+   macro avg       0.71      0.70      0.59       416
+weighted avg       0.82      0.59      0.59       416
+
+Matriz de confussao:
+[[127   1]
+ [168 120]]
+
+
+Acuracia: 0.59375
+
+F1_Score: 0.5867970660146699
+
+Precision: 0.9917355371900827
+
+Recall: 0.4166666666666667
+
+#-----------------------------------------------------#

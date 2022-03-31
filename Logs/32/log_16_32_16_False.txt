@@ -1,0 +1,80 @@
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.79      0.43      0.56       129
+           1       0.79      0.95      0.86       288
+
+    accuracy                           0.79       417
+   macro avg       0.79      0.69      0.71       417
+weighted avg       0.79      0.79      0.77       417
+[[ 56  73]
+ [ 15 273]]
+Acuracia: 0.6910125968992248
+Pre treino = Congelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.64      0.70      0.67       129
+           1       0.86      0.83      0.84       287
+
+    accuracy                           0.79       416
+   macro avg       0.75      0.76      0.76       416
+weighted avg       0.79      0.79      0.79       416
+[[ 90  39]
+ [ 50 237]]
+Acuracia: 0.7617291953650434
+Pre treino = Congelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.64      0.67      0.65       129
+           1       0.85      0.83      0.84       287
+
+    accuracy                           0.78       416
+   macro avg       0.74      0.75      0.75       416
+weighted avg       0.78      0.78      0.78       416
+[[ 87  42]
+ [ 50 237]]
+Acuracia: 0.7501012883882991
+Pre treino = Congelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.70      0.47      0.56       129
+           1       0.79      0.91      0.85       287
+
+    accuracy                           0.77       416
+   macro avg       0.74      0.69      0.70       416
+weighted avg       0.76      0.77      0.76       416
+[[ 60  69]
+ [ 26 261]]
+Acuracia: 0.687261972287497
+Pre treino = Congelado
+
+
+Validacao Cruzada - 1 de 5
+16 Epocas, bags com 16 instancias
+              precision    recall  f1-score   support
+
+           0       0.39      0.98      0.55       128
+           1       0.97      0.31      0.47       288
+
+    accuracy                           0.51       416
+   macro avg       0.68      0.64      0.51       416
+weighted avg       0.79      0.51      0.49       416
+[[125   3]
+ [199  89]]
+Acuracia: 0.6427951388888888
+Pre treino = Congelado
+
+
